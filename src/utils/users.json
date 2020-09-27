@@ -4,7 +4,7 @@
         "age":"20",
         "dob":"25/06/1987",
         "locality":"Gunjan",
-        "profession":"employee",
+        "profession":"student",
         "number_of_guest":2,
         "address":"o-303 shyamal vihar"
     },
@@ -28,7 +28,7 @@
     },
     {
         "name":"Austin",
-        "age":"40",
+        "age":"13",
         "dob":"25/06/1977",
         "locality":"Gunjan",
         "profession":"employee",
@@ -37,7 +37,7 @@
     },
     {
         "name":"Rock",
-        "age":"40",
+        "age":"18",
         "dob":"25/06/1977",
         "locality":"Gunjan",
         "profession":"employee",
@@ -46,7 +46,7 @@
     },
     {
         "name":"TripleH",
-        "age":"40",
+        "age":"29",
         "dob":"25/06/1977",
         "locality":"Gunjan",
         "profession":"employee",

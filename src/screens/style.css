@@ -183,11 +183,32 @@ option{
     font-family: MB;
     font-size: 12px;
     color:#eb5a57;
+    text-align: center;
 }
 .value{
     font-family: MB;
     font-size: 14px;
-    margin-top: 3px;
+    margin-top: 5px;
+    color:#f3f3f3;
+    text-align: center;
+}
+.report-card{
+    margin-top: 100px;
+    width:60%;
+    display: flex;
+    align-self: center;
+    padding:16px 30px;
+    background-color: #182d4c;
+    border-radius: 3px;
+    flex-direction: column;
+}
+.report-grid{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.report-item{
+    margin:10px;
 }
 @media screen and (max-width: 768px){
     .container{
