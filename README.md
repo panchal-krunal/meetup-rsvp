@@ -6,11 +6,15 @@
 ```
 
 ### Note
-`All users are available inside src/utils/users.json file`
-`Routes are available inside App.js`
+```
+All users are available inside src/utils/users.json file <br/>
+Routes are available inside App.js
+```
 
 ## Packages Used 
-`1. react js`
-`2. moment`
-`3. react-router-dom`
-`4. css`
+```
+1. react js<br/>
+2. moment<br/>
+3. react-router-dom<br/>
+4. css<br/>
+```
