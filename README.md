@@ -1,7 +1,9 @@
 ### Steps 
-`1. git clone [https://github.com/panchal-krunal/meetup-rsvp.git] (https://github.com/panchal-krunal/meetup-rsvp.git)`<br/>
-`2. yarn` <br/>
-`3. yarn start` <br/>
+```
+1. git clone [https://github.com/panchal-krunal/meetup-rsvp.git] (https://github.com/panchal-krunal/meetup-rsvp.git)<br/>
+2. yarn <br/>
+3. yarn start <br/>
+```
 
 ### Note
 `All users are available inside src/utils/users.json file`
