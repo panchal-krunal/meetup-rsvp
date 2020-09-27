@@ -1,9 +1,10 @@
-import React,{Component} from 'react';
 
+import React,{Component} from 'react';
+import "./style.css"
 class Report extends Component{
     render(){
         return(
-            <div></div>
+            <div className="container"></div>
         )
     }
 }
