@@ -1,20 +1,20 @@
 ### Steps 
 ```
-1. git clone [https://github.com/panchal-krunal/meetup-rsvp.git] (https://github.com/panchal-krunal/meetup-rsvp.git)<br/>
-2. yarn <br/>
-3. yarn start <br/>
+1. git clone https://github.com/panchal-krunal/meetup-rsvp.git
+2. yarn 
+3. yarn start 
 ```
 
 ### Note
 ```
-All users are available inside src/utils/users.json file <br/>
+All users are available inside src/utils/users.json file 
 Routes are available inside App.js
 ```
 
 ## Packages Used 
 ```
-1. react js<br/>
-2. moment<br/>
-3. react-router-dom<br/>
-4. css<br/>
+1. react js
+2. moment
+3. react-router-dom
+4. css
 ```
